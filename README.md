@@ -2,7 +2,7 @@
 
 **Contribution Number:** [1]  
 **Student:** [Aamosh Thapa]  
-**Issue:** [GitHub issue link -- Waiting]  
+**Issue:** [[GitHub issue link ](https://github.com/wso2/product-is/issues/24264)-- Waiting]  
 **Status:** [Phase I] [In Progress]
 
 ---
